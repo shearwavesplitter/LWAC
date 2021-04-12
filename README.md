@@ -1,6 +1,23 @@
 # LWAC 0.1.1
 Light Weight Auto-Correlator. For calculating auto-correlations of seismic ambient noise or coda. 
 
+## Publication / Reference
+
+Stefan Mroczek, Frederik Tilmann, Joint ambient noise autocorrelation and receiver function analysis of the Moho, Geophysical Journal International, Volume 225, Issue 3, June 2021, Pages 1920–1934, [https://doi.org/10.1093/gji/ggab065](https://doi.org/10.1093/gji/ggab065)
+
+```bibtex
+@article{mroczek2021acor,
+  title={Joint ambient noise autocorrelation and receiver function analysis of the Moho},
+  author={Mroczek, Stefan and Tilmann, Frederik},
+  journal={Geophysical Journal International},
+  volume={225},
+  number={3},
+  pages={1920--1934},
+  year={2021},
+  publisher={Oxford University Press}
+}
+```
+
 ## Installation
 
 ```bash
