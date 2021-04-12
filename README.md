@@ -3,7 +3,7 @@ Light Weight Auto-Correlator. For calculating auto-correlations of seismic ambie
 
 ## Publication / Reference
 
-Stefan Mroczek, Frederik Tilmann, Joint ambient noise autocorrelation and receiver function analysis of the Moho, Geophysical Journal International, Volume 225, Issue 3, June 2021, Pages 1920–1934, [https://doi.org/10.1093/gji/ggab065](https://doi.org/10.1093/gji/ggab065)
+Stefan Mroczek, Frederik Tilmann, Joint ambient noise autocorrelation and receiver function analysis of the Moho, *Geophysical Journal International*, Volume 225, Issue 3, June 2021, Pages 1920–1934, [https://doi.org/10.1093/gji/ggab065](https://doi.org/10.1093/gji/ggab065)
 
 ```bibtex
 @article{mroczek2021acor,
